@@ -1,0 +1,19 @@
+.logo{
+    font-size: 40px;
+    padding: 20px;
+}
+
+.menuItems{
+    list-style: none;
+    float: left;
+
+}
+
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.menu{
+    background-color: blue
+}
